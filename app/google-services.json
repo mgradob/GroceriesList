@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680572395276",
+    "firebase_url": "https://grolis-cc1b7.firebaseio.com",
+    "project_id": "grolis-cc1b7",
+    "storage_bucket": "grolis-cc1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680572395276:android:6df11ac0d48fea0e",
+        "android_client_info": {
+          "package_name": "com.mgb.grolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680572395276-hhrloja6ba4d4rfs7q8lulu1aojdd6ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mgb.grolis",
+            "certificate_hash": "69f0ecf877c574da2a5f5d389ffe97a1d51097e3"
+          }
+        },
+        {
+          "client_id": "680572395276-qi1rseb7i0prvrraa330cb1pcp8bv0co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLiAVqIpWQFpdUIXC8h_kw5yECHOFe9ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680572395276-qi1rseb7i0prvrraa330cb1pcp8bv0co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

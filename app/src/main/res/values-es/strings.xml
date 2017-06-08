@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GroLis</string>
+
+    <string name="new_item">Nuevos</string>
+    <string name="completed">Completados</string>
+    <string name="add_item">Agregar item</string>
+    <string name="name">Nombre</string>
+    <string name="notes">Notas</string>
+    <string name="quantity">Cantidad</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
